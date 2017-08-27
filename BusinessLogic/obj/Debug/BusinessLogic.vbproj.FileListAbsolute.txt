@@ -1,0 +1,45 @@
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.xml
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.dll
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.xml
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.Resources.resources
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.vbproj.GenerateResource.Cache
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.xml
+E:\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\BusinessLogic.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\bin\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\BusinessLogic\obj\Debug\BusinessLogic.pdb
