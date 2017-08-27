@@ -1,0 +1,18 @@
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\ResolveAssemblyReference.cache
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.Resources.resources
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.vbproj.GenerateResource.Cache
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Debug\CommonObjects.pdb

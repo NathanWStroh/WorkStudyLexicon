@@ -1,0 +1,36 @@
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.dll
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.xml
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.Resources.resources
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.dll
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.xml
+E:\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\bin\Debug\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\DataAccess\obj\Debug\DataAccess.pdb

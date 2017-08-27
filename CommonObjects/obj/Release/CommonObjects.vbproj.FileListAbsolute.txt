@@ -1,0 +1,36 @@
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.pdb
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\ResolveAssemblyReference.cache
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.Resources.resources
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.vbproj.GenerateResource.Cache
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.dll
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.xml
+E:\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\bin\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexiconTermEditorProgram\CommonObjects\obj\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\bin\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\bin\Release\CommonObjects.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\bin\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\CommonObjects.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\CommonObjects.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\CommonObjects.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\CommonObjects.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Projects\Work Study\LexiconInterface\LexTE\CommonObjects\obj\Release\CommonObjects.pdb
