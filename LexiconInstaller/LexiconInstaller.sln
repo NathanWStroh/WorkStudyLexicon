@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LexiconInstaller", "LexiconInstaller.vdproj", "{D69A141E-E381-4006-96F5-B8AC54335AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69A141E-E381-4006-96F5-B8AC54335AD3}.Debug|Default.ActiveCfg = Debug
+		{D69A141E-E381-4006-96F5-B8AC54335AD3}.Debug|Default.Build.0 = Debug
+		{D69A141E-E381-4006-96F5-B8AC54335AD3}.Release|Default.ActiveCfg = Release
+		{D69A141E-E381-4006-96F5-B8AC54335AD3}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

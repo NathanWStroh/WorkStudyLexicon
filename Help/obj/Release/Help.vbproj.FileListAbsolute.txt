@@ -1,0 +1,9 @@
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\bin\Release\Help.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\bin\Release\Help.pdb
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\bin\Release\Help.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\ResolveAssemblyReference.cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\Help.Resources.resources
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\Help.vbproj.GenerateResource.Cache
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\Help.dll
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\Help.xml
+C:\Users\RptSrvsWrkStdy\Google Drive\Work Study\LexiconInterface\LexiconTermEditorProgram\Help\obj\Release\Help.pdb
